@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Encore Digital</title>
+    <description>Encore Digital | Potenciamos el Core de tu Negocio con Marketing y Web</description>
+    <link>https://encoredigitalperu.com</link>
+    <atom:link href="https://encoredigitalperu.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2026 11:33:49 GMT</lastBuildDate>
+    <item>
+      <title>Table of Contents — Reading Anchors for Long Posts</title>
+      <link>https://encoredigitalperu.com/blog/table-of-contents/</link>
+      <guid>https://encoredigitalperu.com/blog/table-of-contents/</guid>
+      <description>Astro Rocket renders an optional table of contents on blog posts in three layouts: inline card, sticky sidebar, or both. Pick the one that fits your audience.</description>
+      <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>features</category>
+        <category>blog</category>
+        <category>navigation</category>
+    </item>
+  </channel>
+</rss>
